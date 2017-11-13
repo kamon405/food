@@ -115,8 +115,7 @@ logreg.fit(X, y)
 assorted_pred_class = logreg.predict(X)
 ```
 
-    C:\Users\kdsing2\Anaconda3\lib\site-packages\sklearn\utils\validation.py:526: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
-      y = column_or_1d(y, warn=True)
+  
     
 
 
